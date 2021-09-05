@@ -18,8 +18,8 @@ input
 set
 # Output a message of some form - print to screen but could also be sending data to
 # another part of the program.
-output (print)
-# An itterative loop (for loop)
+output 
+# An itterative loop 
 loop n from x to y step z ... next n
 # Conditional loops
 while something is true ... loop
@@ -29,7 +29,7 @@ if ... else if ... else ... end if
 # Additional items
 # Text (Strings) are placed in quotes 
 "My name is Philip"
-#Numbers do not have quotes 
+# Numbers do not have quotes 
 5, 3.14, 100000
 ```
 
@@ -61,7 +61,7 @@ output "The product of the two numbers is ", a times b
 # print all the numbers from 1 to 10
 
 loop n from 1 to 10 step 1
-	output n
+    output n
 next n
 ```
 
@@ -70,8 +70,10 @@ next n
 
 set total to zero
 loop from 1 to 10 step 1
-	add n to total
+    add n to total
 next n
+
+output total
 ```
 
 ```python
@@ -83,7 +85,7 @@ next n
 # * * * * *
 
 loop n from 1 to 5 step 1
-	output "* * * * *"
+    output "* * * * *"
 next n
 ```
 
@@ -92,9 +94,9 @@ next n
 
 input n "What size grid would you like to print?"
 loop row from 1 to n step 1
-	loop col from 1 to n step 1
-		output "* "
-		output new line
-	next col
+    loop col from 1 to n step 1
+        output "* "
+    next col
+    output new line
 next row
 ```
