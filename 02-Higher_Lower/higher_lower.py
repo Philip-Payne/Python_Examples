@@ -32,6 +32,9 @@ introduction = '''
 # Generate the secret number
 secret=randint(1, 100)
 
+# Print the introduction
+print(introduction)
+
 # Ask for the first guess
 guess=int(input("Guess the secret number "))
 
