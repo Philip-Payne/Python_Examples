@@ -13,11 +13,11 @@ A program to generate a random excuse for lateness. Always useful for academics 
 ### Example 02 - Higher-Lower Game
 The program chooses a number between 1 and 100 and the player has to guess that number. For each guess the player is told if they have guessed too high, too low or correctly. The code includes examples of using the random number function in Python as well as loops and conditional statements.
 
-### Example 02 - Prime Number Checker.
+### Example 03 - Prime Number Checker.
 The code checks if an integer is a prime number. The code demonstrates the use loops and the modulo operator as well as conditional statements and the creation of user defined functions. While the code demonstrates some interesting concepts the main point of this exercise is to consider the importance of understanding the original requirements before starting to code.
 
-### Example 03 - Hangman Game
+### Example 04 - Hangman Game
 Code to play a simple game of Hangman on the command line. This example introduces the idea of 'state' in a program. There are a number of ways that this code can be expanded to create a more fully featured game.
 
-### Example 04 - Pattern Generator
+### Example 05 - Pattern Generator
 No, this isn't fun but it is good practice for using loops and print commands. The main benefit of this exercise is to demonstrate some ways to plan your code.
