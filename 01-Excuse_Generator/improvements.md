@@ -10,13 +10,18 @@ There is no need to have the same number of elements in each list so you can ext
 
 ## The Initial Phrase
 The start of the excuse 
->> "I'm sorry I'm late but" could also be randomised. Think of options such as 
+>> "I'm sorry I'm late but" 
+
+could also be randomised. Think of options such as 
 >>"Sorry I'm late mate but" or "Yo, dude, soz I is late but" 
+
+
 and so on.
 
 ## Adding more sentences
 You could try adding additional sentences such as 
 >> "I tried calling the RAC but they wouldn't clear the cats". 
+
 Here you have an organisation (RAC in this example), and action (clear in this example) and the object from the previous sentence (cats in this example).
 
 ## Your own ideas
