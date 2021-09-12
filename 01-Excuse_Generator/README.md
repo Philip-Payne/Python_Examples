@@ -46,7 +46,7 @@ Generally it is not a good idea to rename a function unless it either helps to i
 
 ## Lists
 
-Lists in Python are similar to indexed arrays in other languages. You can create an array in a number of different ways but for this example we will populate the list at the start of the code (at declaration) like this...
+Lists in Python are similar to indexed arrays in other languages. You can create a list in a number of different ways but for this example we will populate the list at the start of the code (at declaration) like this...
 
 ```python
 myList = ["item 1", "Item 2", "Item 3"]
@@ -79,11 +79,11 @@ import the choice function from the random module
 '''
 The excuse we want to generate is similar to
 
-I'm sorry I'm late but there were | a million | cats | by my car
+I'm sorry I'm late but there were a million cats by my car.
 
 The basic form of this is
 
-I'm sorry I'm late but there were | QUANTITY | OBJECT | LOCATION
+I'm sorry I'm late but there were | QUANTITY | OBJECT | LOCATION.
 
 So we have three parts that we can randomise.
 '''
