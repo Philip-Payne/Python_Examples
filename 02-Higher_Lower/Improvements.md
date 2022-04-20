@@ -4,7 +4,7 @@ There are two main areas where the game could be improved.
 
 ## Range
 
-At the moment the game sets a secret number between 1 and 100. To make the game more difficult you could change the range to between 1 and 1000. At the moment you would have to change this in two places, in the description of the game and the 'randint' function. To sove this problem create a variable that holds the upper limit and replace the two instances of the number 100 with the variable. You could, alternatively, ask the user to input the upper limit so they could select the game difficulty.
+At the moment the game sets a secret number between 1 and 100. To make the game more difficult you could change the range to between 1 and 1000. At the moment you would have to change this in two places, in the description of the game and the 'randint' function. To solve this problem create a variable that holds the upper limit and replace the two instances of the number 100 with the variable. You could, alternatively, ask the user to input the upper limit so they could select the game difficulty.
 
 ## Input Errors
 
