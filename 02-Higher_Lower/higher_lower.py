@@ -30,13 +30,13 @@ introduction = '''
 '''
 
 # Generate the secret number
-secret=randint(1, 100)
+secret = randint(1, 100)
 
 # Print the introduction
 print(introduction)
 
 # Ask for the first guess
-guess=int(input("Guess the secret number "))
+guess = int(input("Guess the secret number "))
 
 # Keep going (loop) untill the guess is correct
 while guess != secret:
