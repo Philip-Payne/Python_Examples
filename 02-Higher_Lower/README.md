@@ -73,7 +73,7 @@ The while loop is an example of a conditional programming structure but a more c
 if 'Condition"":
     # The condition is true so we run some code
 else:
-	# The condition is false so we run different code
+    # The condition is false so we run different code
 ```
 This is called an if-eles statement. There is also an elseif statement for use with multiple conditions.
 
@@ -96,9 +96,9 @@ get guess from the user
 
 while the secret and the guess are not the same
 
-	if the guess is to high
-		output "Your guess was too high"
-	else
+    if the guess is to high
+        output "Your guess was too high"
+    else
         output "Your guess was too low"
         
     get another guess from the user
