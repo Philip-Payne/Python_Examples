@@ -99,7 +99,9 @@ while the secret and the guess are not the same
 	if the guess is to high
 		output "Your guess was too high"
 	else
-		output "Your guess was too low"
+        output "Your guess was too low"
+        
+    get another guess from the user
 
 loop
 
